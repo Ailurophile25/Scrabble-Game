@@ -18,15 +18,20 @@ Project mô phỏng các cơ chế cơ bản của Scrabble như quản lý bàn
 - CodeBlocks
 
 ## Cấu trúc project
+
+```text
 Scrabble/
 │
 ├── src/                # File source (.cpp)
 ├── include/            # File header (.h)
-├── PNGs/               # Hình ảnh chữ cái
+├── PNGs/             # Hình ảnh chữ cái
 ├── libs/               # SDL2 DLL
 │
 ├── scrabble.cbp        # File project CodeBlocks
-├── README.md
+└── README.md
+```
+
+---
 
 ## Luật Chơi Scrabble (Đơn Giản)
 1. Mỗi người chơi bắt đầu với 7 quân chữ.
