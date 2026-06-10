@@ -41,3 +41,7 @@ Scrabble/
 5. Điểm số được tính dựa trên giá trị của từng chữ cái và các ô thưởng đặc biệt trên bàn cờ.
 6. Nếu sử dụng hết toàn bộ 7 quân chữ trong một lượt, người chơi sẽ nhận thêm điểm thưởng (Bingo).
 7. Trò chơi kết thúc khi túi chữ không còn quân nào và một người chơi đã sử dụng hết toàn bộ quân chữ trên tay.
+
+---
+![Screen1](Screen1.png)
+![Screen2](Screen2.png)
